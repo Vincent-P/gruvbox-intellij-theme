@@ -1,17 +1,14 @@
 <idea-plugin>
     <id>com.vincentp.gruvbox-theme</id>
     <name>Gruvbox Theme</name>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <vendor email="vincent.parizet@hotmail.fr" url="https://github.com/Vincent-P">Vincent Parizet</vendor>
 
     <description><![CDATA[
     gruvbox is heavily inspired by badwolf, jellybeans and solarized.
+
     Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of solarized. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes.
     ]]></description>
-
-    <change-notes><![CDATA[
-        Initial release of the theme.
-    ]]></change-notes>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
