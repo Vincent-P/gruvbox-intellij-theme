@@ -38,11 +38,11 @@
       "endBorderColor": "#504945",
 
       "default": {
-        "foreground": "#504945",
-        "startBackground": "#83a598",
-        "endBackground": "#83a598",
-        "startBorderColor": "#83a598",
-        "endBorderColor": "#83a598",
+        "foreground": "#fbf1c7",
+        "startBackground": "#32302F",
+        "endBackground": "#32302F",
+        "startBorderColor": "#4F4945",
+        "endBorderColor": "#4F4945",
         "focusedBorderColor": "#282828"
       }
     },
