@@ -1,8 +1,8 @@
 {
-  "name": "Gruvbox Dark Medium",
+  "name": "Gruvbox Dark Soft",
   "dark": true,
   "author": "Vincent Parizet",
-  "editorScheme": "/gruvbox_dark_medium.xml",
+  "editorScheme": "/gruvbox_dark_soft.xml",
   "colors": {
     "bg0": "#282828",
     "bg0_h": "#1d2021",
@@ -11,7 +11,7 @@
     "bg2": "#504945",
     "bg3": "#665c54",
     "bg4": "#7c6f64",
-    "bg": "#282828",
+    "bg": "#32302f",
 
     "fg0": "#fbf1c7",
     "fg1": "#ebdbb2",

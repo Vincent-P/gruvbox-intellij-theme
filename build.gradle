@@ -28,6 +28,7 @@ patchPluginXml {
         <li>Add support for Intellij 2020.*. (thanks @camsteffen!)</li>
         <li>Fix selection inactive background color. (thanks @rkashapov!)</li>
         <li>Remove default font in the color scheme so that users keep their font settings.</li>
+        <li>Add Dark Hard and Dark Soft variants.</li>
     </ul>
     <h2>0.2.1</h2>
     <ul>
