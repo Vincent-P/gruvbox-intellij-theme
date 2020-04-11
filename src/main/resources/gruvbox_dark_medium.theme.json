@@ -1,8 +1,8 @@
 {
-  "name": "gruvbox-theme",
+  "name": "Gruvbox Dark Medium",
   "dark": true,
   "author": "Vincent Parizet",
-  "editorScheme": "/gruvbox_theme.xml",
+  "editorScheme": "/gruvbox_dark_medium.xml",
   "ui": {
     "*": {
       "background": "#282828",

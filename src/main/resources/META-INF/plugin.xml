@@ -16,7 +16,7 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
-        <themeProvider id="21e54412-e514-4787-83b8-7f63ccc90eb1" path="/gruvbox_theme.theme.json"/>
+        <themeProvider id="21e54412-e514-4787-83b8-7f63ccc90eb1" path="/gruvbox_dark_medium.theme.json"/>
     </extensions>
 
     <actions>
