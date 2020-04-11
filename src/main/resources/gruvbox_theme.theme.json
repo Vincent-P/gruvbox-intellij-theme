@@ -15,6 +15,7 @@
       "selectionForeground": "#fbf1c7",
 
       "selectionBackgroundInactive": "#3c3836",
+      "selectionInactiveBackground": "#3c3836",
 
       "selectedBackground": "#1d2021",
       "selectedForeground": "#fbf1c7",
