@@ -74,8 +74,8 @@
 
       "default": {
         "foreground": "fg0",
-        "startBackground": "#32302F",
-        "endBackground": "#32302F",
+        "startBackground": "#f2e5bc",
+        "endBackground": "#f2e5bc",
         "startBorderColor": "#4F4945",
         "endBorderColor": "#4F4945",
         "focusedBorderColor": "bg"
