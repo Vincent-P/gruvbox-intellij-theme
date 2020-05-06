@@ -10,7 +10,6 @@
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RIGHT_MARGIN_COLOR" value="f2e5bc" />
-    <option name="SELECTED_INDENT_GUIDE" value="f8e1aa" />
     <option name="SELECTED_TEARLINE_COLOR" value="427b58" />
     <option name="SELECTION_BACKGROUND" value="bdae93" />
     <option name="TEARLINE_COLOR" value="bdae93" />
@@ -263,12 +262,10 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="f8e1aa" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="f8e1aa" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -411,7 +408,6 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="f8e1aa" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
