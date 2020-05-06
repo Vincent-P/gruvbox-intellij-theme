@@ -19,6 +19,9 @@
         <themeProvider id="21e54412-e514-4787-83b8-7f63ccc90eb1" path="/gruvbox_dark_medium.theme.json"/>
         <themeProvider id="b56b7f2a-ef4c-4717-aeb9-b031dfc50891" path="/gruvbox_dark_soft.theme.json"/>
         <themeProvider id="a70cec2d-8543-4ede-a507-15fbfd1be86c" path="/gruvbox_dark_hard.theme.json"/>
+        <themeProvider id="a70cec2d-8543-4ede-a507-15fbfd1be86d" path="/gruvbox_light_medium.theme.json"/>
+        <themeProvider id="a70cec2d-8543-4ede-a507-15fbfd1be86e" path="/gruvbox_light_soft.theme.json"/>
+        <themeProvider id="a70cec2d-8543-4ede-a507-15fbfd1be86f" path="/gruvbox_light_hard.theme.json"/>
     </extensions>
 
     <actions>
