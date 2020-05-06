@@ -1,7 +1,7 @@
 {
   "name": "Gruvbox Light Medium",
   "dark": false,
-  "author": "Marius Helf",
+  "author": "Vincent Parizet, Marius Helf",
   "editorScheme": "/gruvbox_light_medium.xml",
   "colors": {
     "bg0": "#fbf1c7",
