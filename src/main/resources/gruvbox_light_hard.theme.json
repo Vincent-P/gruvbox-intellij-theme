@@ -45,7 +45,7 @@
       "infoForeground": "fg",
 
       "lightSelectionBackground": "bg1",
-      "selectionBackground": "#4F4945",
+      "selectionBackground": "bg2",
       "selectionForeground": "fg0",
 
       "selectionBackgroundInactive": "bg0_s",
