@@ -3,8 +3,12 @@ plugins {
     id 'org.jetbrains.intellij' version '0.4.18'
 }
 
+publishPlugin {
+    token = System.getenv("intellij_publish_token")
+}
+
 group 'com.vincentp'
-version '0.3.0'
+version '0.3.1'
 
 sourceCompatibility = 1.8
 
@@ -23,6 +27,10 @@ intellij {
 
 patchPluginXml {
     changeNotes """
+    <h2>0.3.1</h2>
+    <ul>
+        <li>Fix Dark Hard variant: Selected background is now darker than the background.</li>
+    </ul>
     <h2>0.3.0</h2>
     <ul>
         <li>Add support for Intellij 2020.*. (thanks @camsteffen!)</li>
