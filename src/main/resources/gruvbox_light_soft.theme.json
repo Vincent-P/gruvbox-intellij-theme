@@ -91,6 +91,7 @@
     },
     "EditorTabs": {
       "selectedBackground": "bg0_s",
+      "underlinedTabBackground": "bg0_h",
       "underlineColor": "blue1",
       "inactiveMaskColor": "#fbf1c766"
     },
