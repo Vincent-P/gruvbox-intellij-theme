@@ -1,6 +1,6 @@
 plugins {
     id 'java'
-    id 'org.jetbrains.intellij' version '0.4.20'
+    id 'org.jetbrains.intellij' version '0.4.21'
 }
 
 publishPlugin {
@@ -22,11 +22,15 @@ dependencies {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version '2020.1'
+    version '2020.2'
 }
 
 patchPluginXml {
     changeNotes """
+    <h2>0.4.1</h2>
+    <ul>
+        <li>Update to work with 2020.2</li>
+    </ul>
     <h2>0.4.0</h2>
     <ul>
         <li>Add light variants (thanks a lot @mariushelf!)</li>
@@ -71,5 +75,5 @@ patchPluginXml {
       """
 
     sinceBuild '183.0'
-    untilBuild '201.*'
+    untilBuild '202.*'
 }
