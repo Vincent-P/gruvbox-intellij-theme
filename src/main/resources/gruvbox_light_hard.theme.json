@@ -12,7 +12,6 @@
     "bg3": "#bdae93",
     "bg4": "#a89984",
     "bg": "#f9f5d7",
-
     "fg0": "#282828",
     "fg1": "#3c3836",
     "fg2": "#504945",
@@ -45,16 +44,16 @@
       "infoForeground": "fg",
 
       "lightSelectionBackground": "bg1",
-      "selectionBackground": "bg2",
+      "selectionBackground": "bg1",
       "selectionForeground": "fg0",
 
-      "selectionBackgroundInactive": "bg0_s",
-      "selectionInactiveBackground": "bg0_s",
+      "selectionBackgroundInactive": "bg1",
+      "selectionInactiveBackground": "bg1",
+      "selectedInactiveBackground": "bg2",
+      "selectedBackgroundInactive": "bg2",
 
       "selectedBackground": "bg0_h",
       "selectedForeground": "fg0",
-      "selectedInactiveBackground": "bg0_s",
-      "selectedBackgroundInactive": "bg0_s",
 
       "hoverBackground": "#fbf1c766",
 

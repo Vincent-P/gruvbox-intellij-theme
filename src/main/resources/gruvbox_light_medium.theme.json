@@ -48,13 +48,13 @@
       "selectionBackground": "bg2",
       "selectionForeground": "fg0",
 
-      "selectionBackgroundInactive": "bg0_s",
-      "selectionInactiveBackground": "bg0_s",
+      "selectionBackgroundInactive": "bg1",
+      "selectionInactiveBackground": "bg1",
+      "selectedInactiveBackground": "bg2",
+      "selectedBackgroundInactive": "bg2",
 
       "selectedBackground": "bg0_h",
       "selectedForeground": "fg0",
-      "selectedInactiveBackground": "bg0_s",
-      "selectedBackgroundInactive": "bg0_s",
 
       "hoverBackground": "#fbf1c766",
 
