@@ -29,7 +29,10 @@ patchPluginXml {
     changeNotes """
     <h2>0.4.3</h2>
     <ul>
-        <li>Update to work with 2020.3</li>
+        <li>Fix background color of the first item from the autocomplete list</li>
+        <li>Fix breakpoint background in Light themes</li>
+        <li>Fix file highlight in Dark Soft theme</li>
+        <li>Update to work with 2020.3 (thanks @hravnx!)</li>
     </ul>
     <h2>0.4.2</h2>
     <ul>
@@ -37,7 +40,7 @@ patchPluginXml {
     </ul>
     <h2>0.4.1</h2>
     <ul>
-        <li>Update to work with 2020.2</li>
+        <li>Update to work with 2020.2 (thanks @jef!)</li>
     </ul>
     <h2>0.4.0</h2>
     <ul>
