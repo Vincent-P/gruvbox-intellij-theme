@@ -8,7 +8,7 @@ publishPlugin {
 }
 
 group 'com.vincentp'
-version '0.4.3'
+version '0.4.4'
 
 sourceCompatibility = 1.8
 
@@ -27,6 +27,10 @@ intellij {
 
 patchPluginXml {
     changeNotes """
+    <h2>0.4.4</h2>
+    <ul>
+        <li>Update to work with 2021.1</li>
+    </ul>
     <h2>0.4.3</h2>
     <ul>
         <li>Fix background color of the first item from the autocomplete list</li>
@@ -86,5 +90,5 @@ patchPluginXml {
       """
 
     sinceBuild '183.0'
-    untilBuild '203.*'
+    untilBuild '211.*'
 }
