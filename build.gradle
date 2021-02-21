@@ -29,7 +29,7 @@ patchPluginXml {
     changeNotes """
     <h2>0.4.4</h2>
     <ul>
-        <li>Update to work with 2021.1</li>
+        <li>Update to work with 2021.1 (thanks @tomaszkaliciak!)</li>
     </ul>
     <h2>0.4.3</h2>
     <ul>
