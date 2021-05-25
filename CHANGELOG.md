@@ -9,6 +9,7 @@
 - Predefined symbol's foreground is now the same as constants
 - Function/method calls now have the default foreground
 - Errors/deprecations no longer have a red foreground, just a red wave to avoid confusion with keywords
+- Add scrollbar colors
 
 ## [0.4.4]
 ### Added

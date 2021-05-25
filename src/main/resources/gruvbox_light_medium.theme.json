@@ -126,20 +126,50 @@
       "hoverForeground": "blue1",
       "pressedForeground": "blue1",
       "visitedForeground": "blue1"
+    },
+    "ScrollBar" : {
+      "hoverThumbBorderColor" : "bg1",
+      "background" : "bg0",
+      "hoverThumbColor": "bg1",
+      "hoverTrackColor": "bg0",
+      "thumb": "bg2",
+      "thumbBorderColor": "bg2",
+      "thumbColor": "bg2",
+      "Transparent": {
+        "thumbColor": "bg2",
+        "hoverThumbBorderColor" : "bg1",
+        "hoverThumbColor": "bg1",
+        "hoverTrackColor": "bg0",
+        "thumbBorderColor": "bg2"
+      },
+      "Mac" : {
+        "Transparent": {
+          "thumbColor": "bg2",
+          "hoverThumbBorderColor" : "bg1",
+          "hoverThumbColor": "bg1",
+          "hoverTrackColor": "bg0",
+          "thumbBorderColor": "bg2"
+        },
+        "hoverThumbBorderColor" : "bg1",
+        "hoverThumbColor": "bg1",
+        "hoverTrackColor": "bg0",
+        "thumbBorderColor": "bg2",
+        "thumbColor": "bg2"
+      }
     }
   },
   "icons": {
     "ColorPalette": {
       "Actions.Grey": "#928374",
-      "Actions.Red": "#9d0006",
+      "Actions.Red": "#cc241d",
       "Actions.Yellow": "#b57614",
       "Actions.Green": "#98971a",
       "Actions.Blue": "#458588",
       "Actions.GreyInline.Dark": "#282828",
 
       "Objects.Grey": "#928374FF",
-      "Objects.RedStatus": "#9d0006FF",
-      "Objects.Red": "#9d0006FF",
+      "Objects.RedStatus": "#cc241dFF",
+      "Objects.Red": "#cc241dFF",
       "Objects.Pink": "#8f3f71FF",
       "Objects.Yellow": "#b57614FF",
       "Objects.Green": "#98971aFF",
@@ -147,7 +177,7 @@
       "Objects.Purple": "#b16286FF",
       "Objects.BlackText": "#000000FF",
       "Objects.YellowDark": "#d79921FF",
-      "Objects.GreenAndroid": "#79740eFF",
+      "Objects.GreenAndroid": "#98971aFF",
 
       "Checkbox.Background.Default.Dark": "#fbf1c7",
       "Checkbox.Border.Default.Dark": "#282828",
