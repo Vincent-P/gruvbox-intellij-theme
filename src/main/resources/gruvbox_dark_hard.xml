@@ -15,32 +15,32 @@
     <option name="SELECTED_INDENT_GUIDE" value="f8e1aa" />
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
     <option name="SELECTION_BACKGROUND" value="665c54" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="3c3836" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="3c3836" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="282828" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="50494588" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="50494588" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="3c3836" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="3c3836" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="282828" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="50494588" />
+    <option name="ScrollBar.Mac.thumbColor" value="50494588" />
+    <option name="ScrollBar.Mac.trackColor" value="" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="3c3836" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="3c3836" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="282828" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="50494588" />
+    <option name="ScrollBar.Transparent.thumbColor" value="50494588" />
+    <option name="ScrollBar.Transparent.trackColor" value="" />
+    <option name="ScrollBar.background" value="282828" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="504945" />
+    <option name="ScrollBar.hoverThumbColor" value="3c3836" />
+    <option name="ScrollBar.hoverTrackColor" value="282828" />
+    <option name="ScrollBar.thumbBorderColor" value="50494588" />
+    <option name="ScrollBar.thumbColor" value="50494588" />
+    <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="665c54" />
-    <option name="ScrollBar.background" value="282828"/>
-    <option name="ScrollBar.trackColor" value=""/>
-    <option name="ScrollBar.thumbColor" value="50494588"/>
-    <option name="ScrollBar.thumbBorderColor" value="50494588"/>
-    <option name="ScrollBar.hoverTrackColor" value="282828"/>
-    <option name="ScrollBar.hoverThumbColor" value="3c3836"/>
-    <option name="ScrollBar.hoverThumbBorderColor" value="504945"/>
-    <option name="ScrollBar.Transparent.trackColor" value=""/>
-    <option name="ScrollBar.Transparent.thumbColor" value="50494588"/>
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="50494588"/>
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="282828"/>
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="3c3836"/>
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="3c3836"/>
-    <option name="ScrollBar.Mac.trackColor" value=""/>
-    <option name="ScrollBar.Mac.thumbColor" value="50494588"/>
-    <option name="ScrollBar.Mac.thumbBorderColor" value="50494588"/>
-    <option name="ScrollBar.Mac.hoverTrackColor" value="282828"/>
-    <option name="ScrollBar.Mac.hoverThumbColor" value="3c3836"/>
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="3c3836"/>
-    <option name="ScrollBar.Mac.Transparent.trackColor" value=""/>
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="50494588"/>
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="50494588"/>
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="282828"/>
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="3c3836"/>
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="3c3836"/>
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -488,10 +488,9 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fb4934" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="fb4934" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
@@ -632,9 +631,19 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="KOTLIN_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="83a598" />
+      </value>
+    </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
       <value>
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="KOTLIN_TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="83a598" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -1015,7 +1024,7 @@
       <value>
         <option name="FOREGROUND" value="fb4934" />
         <option name="EFFECT_COLOR" value="fb4934" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
@@ -1025,16 +1034,6 @@
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
-      <value>
-        <option name="FOREGROUND" value="83a598" />
-      </value>
-    </option>
-    <option name="KOTLIN_NAMED_ARGUMENT">
-      <value>
-        <option name="FOREGROUND" value="83a598" />
-      </value>
-    </option>
-    <option name="KOTLIN_TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="83a598" />
       </value>
