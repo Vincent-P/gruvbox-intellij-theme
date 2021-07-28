@@ -2,7 +2,15 @@
 
 # Gruvbox theme changelog
 
-## [Unreleased]
+## [0.5.1]
+### Added
+- 2021.2 support
+
+## [0.5.1]
+### Changed
+- Fixed `pluginSinceBuild`
+
+## [0.5.0]
 ### Changed
 - Update Gradle build to https://github.com/JetBrains/intellij-platform-plugin-template
 - The changelog is now a markdown file instead of hardcoded HTML
