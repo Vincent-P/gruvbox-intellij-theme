@@ -2,7 +2,7 @@
 
 # Gruvbox theme changelog
 
-## [0.5.1]
+## [0.5.2]
 ### Added
 - 2021.2 support
 
