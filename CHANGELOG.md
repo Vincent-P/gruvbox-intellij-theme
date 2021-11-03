@@ -8,6 +8,7 @@
 
 ### Changed
 - The wrap guide color is now the same as the indent guide color
+- Attempt to fix go syntax highlighting (thanks @ravron)
 
 ## [0.5.2]
 ### Added
