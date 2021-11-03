@@ -6,6 +6,9 @@
 ### Added
 - 2021.3 support
 
+### Changed
+- The wrap guide color is now the same as the indent guide color
+
 ## [0.5.2]
 ### Added
 - 2021.2 support
