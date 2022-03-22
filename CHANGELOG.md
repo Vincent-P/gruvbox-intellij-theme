@@ -2,6 +2,12 @@
 
 # Gruvbox theme changelog
 
+## [Unreleased]
+
+## [0.5.4]
+### Added
+- 2022.1 support (thanks @fabianhjr)
+
 ## [0.5.3]
 ### Added
 - 2021.3 support
@@ -42,7 +48,7 @@
 
 ## [0.4.2]
 ### Fixed
-- Fix PyCharm Python Console prompt. (thanks @lemontheme) 
+- Fix PyCharm Python Console prompt. (thanks @lemontheme)
 
 ## [0.4.1]
 ### Added
