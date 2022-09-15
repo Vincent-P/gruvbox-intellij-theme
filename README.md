@@ -1,3 +1,9 @@
+# ⚠️ DEPRECATED
+
+ This extension is now deprecated. I have not been using this extension for years and I don't have time to maintain this project anymore.
+ 
+ I hope that someone will eventually fork and maintain a new repo.
+ 
 # Gruvbox Intellij IDEA Theme
 
 <!-- Plugin description -->
